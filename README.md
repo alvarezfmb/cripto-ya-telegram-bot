@@ -1,6 +1,6 @@
 # cripto-ya-telegram-bot
 
-Returns DAI buy price in ARS for Arg. most popular cryptocurrency exchanges.
+Returns DAI buy price in ARS for most popular cryptocurrency exchanges.
 
 Replace API token value if you intend to use this.
 
