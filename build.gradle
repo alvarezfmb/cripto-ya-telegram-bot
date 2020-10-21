@@ -49,5 +49,6 @@ shadowJar {
     }
 }
 
-
-
+task stage {
+    dependsOn installDist
+}

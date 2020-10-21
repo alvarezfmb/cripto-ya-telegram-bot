@@ -1,1 +1,1 @@
-web: java -Dserver.port=$PORT $JAVA_OPTS -jar build/libs/cripto-ya-telegram-bot-1.0.1-all.jar
+release: build/install/cripto-ya-telegram-bot/bin/cripto-ya-telegram-bot
